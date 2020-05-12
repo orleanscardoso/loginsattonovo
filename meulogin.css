@@ -1,0 +1,82 @@
+.card-title
+	{
+     text-align: center;
+     font-family: "Montserrat";
+     color:#FF9800;
+	}
+	.container
+	{
+		background-color: #00263A;
+	}
+	body
+	{
+     background-color: #00263A;
+	}
+	h3
+	{
+		line-height: 50px;
+	}
+	figure
+	{
+		text-align: center;
+	}
+	
+	.logoca
+	{
+		width: 20%;
+		margin: 0-auto;
+	}
+	.cadastre-se
+	{
+		line-height: 20px;
+		margin: 30px;
+
+	}
+	.cadastra
+	{
+	font-family: "Montserrat";
+     color:#FF9800;
+
+	}
+
+	.imagemabaixo
+	{
+
+         margin: 15px;
+		 width: 100px;
+	}
+	.placeholder
+	{
+		size: 50px;
+	}
+    .btn-btn-primary
+    {
+    	background: #00263A;
+    	color:#FF9800;
+    	text-transform: uppercase;
+    	border-radius: 20px;
+        margin-top: 20px;
+    }
+    .form-control
+     {
+     	border-radius: 20px;
+     	size: 30px;
+     	width: 600px;
+     	text-align: center;
+     	margin-left: 130px;
+     	border-color: #00263A;
+     	box-shadow: 5px 5px 10px #FF9800;
+
+     }
+     .logos
+     {
+    	border-radius: 20px;
+    	margin: 20px;
+    	width: 50px;
+        border-color: #00263A;
+     }
+     .logoinstaeface
+     {
+     	border-radius: 20px;
+     	background: #00263A;;
+     }
